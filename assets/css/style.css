@@ -10,10 +10,36 @@ html {
     font-family: sans-serif;
   }
   
+  .container {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 238px;
+  }
+
+  .title {
+    
+    margin: 1rem;
+    font-size: 7rem;
+    padding: 1rem .5rem;
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 1.5rem black;
+  }
+
+  .description {
+    margin: 1rem;
+    font-size: 4rem;
+    padding: 1rem .5rem;
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 1.5rem black;
+  }
+  
   .keys {
     display: flex;
     flex: 1;
-    min-height: 100vh;
+    min-height: 44vh;
     align-items: center;
     justify-content: center;
   }
