@@ -17,6 +17,13 @@ html {
     margin-top: 238px;
   }
 
+  .container {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 238px;
+  }
+
   .title {
     
     margin: 1rem;
